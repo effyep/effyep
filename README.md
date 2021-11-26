@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @effyep, actually a student of "Computer engineering" in Santiago, chile
-- 👀 I’m interested in POO, Desktop apps with C#, Android, Python, Web development with Django, Bootstrap, ETL, Microsoft Power automate, Linux
+- 👀 I’m interested in POO, Desktop apps with C#, Android, Python, Web development with Django, Bootstrap, ETL, Microsoft Power automate, Linux, SQL
 - 🌱 I’m currently improving my programming skills
 
 <!---
