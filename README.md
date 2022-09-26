@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @effyep, actually a student of "Computer engineering" in Santiago, chile
+- 👋 Hi, I’m @effyep, actually a student of "Software engineering" in Santiago, chile
 
 - 🌱 I’m currently improving my programming skills
 
